@@ -1,0 +1,70 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+_build/
+
+# Qt Creator
+*.pro.user*
+*.qmake.stash
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Other IDEs and tools
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs and dumps
+*.log
+*.core
+core.*
+
+# Test coverage and profiling
+*.gcno
+*.gcda
+*.gcov
+*.prof
+
+# Mac and Linux
+.DS_Store
+*.directory
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini

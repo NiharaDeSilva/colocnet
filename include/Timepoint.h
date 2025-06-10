@@ -1,5 +1,7 @@
 #pragma once
 
+/* Define Timepoint type which will be shared across the project */
+
 // enum class Timepoint {
 //     Donor = -1,
 //     Pre = 0,
